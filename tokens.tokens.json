@@ -263,100 +263,96 @@
       }
     },
     "primitive": {
-      "primary": {
-        "_primary": {
-          "value": "#283c55",
+      "accent": {
+        "100": {
+          "value": "#fff6f4",
           "type": "color"
         },
-        "primary": {
-          "100": {
-            "value": "#f8f8f9",
-            "type": "color"
-          },
-          "200": {
-            "value": "#eeeff2",
-            "type": "color"
-          },
-          "300": {
-            "value": "#e0e2e6",
-            "type": "color"
-          },
-          "400": {
-            "value": "#cfd3d9",
-            "type": "color"
-          },
-          "500": {
-            "value": "#b2b7c2",
-            "type": "color"
-          },
-          "600": {
-            "value": "#8d95a4",
-            "type": "color"
-          },
-          "700": {
-            "value": "#647084",
-            "type": "color"
-          },
-          "800": {
-            "value": "#4b5a70",
-            "type": "color"
-          },
-          "900": {
-            "value": "#394a62",
-            "type": "color"
-          },
-          "1000": {
-            "value": "#233246",
-            "type": "color"
-          }
-        }
-      },
-      "accent": {
+        "200": {
+          "value": "#ffeae6",
+          "type": "color"
+        },
+        "300": {
+          "value": "#ffd8d2",
+          "type": "color"
+        },
+        "400": {
+          "value": "#ffc5bd",
+          "type": "color"
+        },
+        "500": {
+          "value": "#ff9d92",
+          "type": "color"
+        },
+        "600": {
+          "value": "#e0766d",
+          "type": "color"
+        },
+        "700": {
+          "value": "#a65a52",
+          "type": "color"
+        },
+        "800": {
+          "value": "#844842",
+          "type": "color"
+        },
+        "900": {
+          "value": "#6b3c37",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#472926",
+          "type": "color"
+        },
         "_accent": {
           "value": "#ff867b",
           "type": "color"
+        }
+      },
+      "primary": {
+        "100": {
+          "value": "#f8f8f9",
+          "type": "color"
         },
-        "accent": {
-          "100": {
-            "value": "#fff6f4",
-            "type": "color"
-          },
-          "200": {
-            "value": "#ffeae6",
-            "type": "color"
-          },
-          "300": {
-            "value": "#ffd8d2",
-            "type": "color"
-          },
-          "400": {
-            "value": "#ffc5bd",
-            "type": "color"
-          },
-          "500": {
-            "value": "#ff9d92",
-            "type": "color"
-          },
-          "600": {
-            "value": "#e0766d",
-            "type": "color"
-          },
-          "700": {
-            "value": "#a65a52",
-            "type": "color"
-          },
-          "800": {
-            "value": "#844842",
-            "type": "color"
-          },
-          "900": {
-            "value": "#6b3c37",
-            "type": "color"
-          },
-          "1000": {
-            "value": "#472926",
-            "type": "color"
-          }
+        "200": {
+          "value": "#eeeff2",
+          "type": "color"
+        },
+        "300": {
+          "value": "#e0e2e6",
+          "type": "color"
+        },
+        "400": {
+          "value": "#cfd3d9",
+          "type": "color"
+        },
+        "500": {
+          "value": "#b2b7c2",
+          "type": "color"
+        },
+        "600": {
+          "value": "#8d95a4",
+          "type": "color"
+        },
+        "700": {
+          "value": "#647084",
+          "type": "color"
+        },
+        "800": {
+          "value": "#4b5a70",
+          "type": "color"
+        },
+        "900": {
+          "value": "#394a62",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#233246",
+          "type": "color"
+        },
+        "_primary": {
+          "value": "#283c55",
+          "type": "color"
         }
       }
     },
