@@ -90,8 +90,7 @@
         },
         "interactive": {
           "value": "{primitive.accent.800}",
-          "type": "color",
-          "description": "accent-800 (light theme)"
+          "type": "color"
         }
       },
       "content": {
@@ -1185,6 +1184,30 @@
         "value": "none",
         "type": "textDecoration"
       }
+    },
+    "x-small": {
+      "value": "4px",
+      "type": "borderRadius"
+    },
+    "small": {
+      "value": "8px",
+      "type": "borderRadius"
+    },
+    "medium": {
+      "value": "12px",
+      "type": "borderRadius"
+    },
+    "large": {
+      "value": "16px",
+      "type": "borderRadius"
+    },
+    "pill": {
+      "value": "999px",
+      "type": "borderRadius"
+    },
+    "circle": {
+      "value": "50%",
+      "type": "borderRadius"
     }
   },
   "$themes": [],
