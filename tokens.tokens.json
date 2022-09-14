@@ -1,5 +1,5 @@
 {
-  "global": {
+  "default": {
     "semantic": {
       "focus": {
         "value": "#44a5ff",
@@ -1235,7 +1235,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "default"
     ]
   }
 }
