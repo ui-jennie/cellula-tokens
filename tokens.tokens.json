@@ -39,12 +39,14 @@
           "type": "color"
         },
         "interactiveMutedHover": {
-          "value": "#504EA814",
-          "type": "color"
+          "value": "#0E42EB14",
+          "type": "color",
+          "description": "accent-800"
         },
         "interactiveMutedActive": {
-          "value": "#504EA829",
-          "type": "color"
+          "value": "#0E42EB29",
+          "type": "color",
+          "description": "accent.800"
         },
         "highlight": {
           "value": "{primitive.accent.400}",
@@ -624,14 +626,15 @@
     "Interactions": {
       "active-interactive": {
         "value": {
-          "color": "#84484233",
-          "type": "dropShadow",
           "x": "0",
           "y": "0",
           "blur": "0",
-          "spread": "2"
+          "spread": "2",
+          "color": "#0E42EB33",
+          "type": "dropShadow"
         },
-        "type": "boxShadow"
+        "type": "boxShadow",
+        "description": "accent-800"
       },
       "active-neutral": {
         "value": {
