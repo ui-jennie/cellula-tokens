@@ -39,11 +39,11 @@
           "type": "color"
         },
         "interactiveMutedHover": {
-          "value": "#84484214",
+          "value": "#504EA814",
           "type": "color"
         },
         "interactiveMutedActive": {
-          "value": "#84484229",
+          "value": "#504EA829",
           "type": "color"
         },
         "highlight": {
@@ -143,121 +143,121 @@
       },
       "warning": {
         "bg": {
-          "value": "#fddeaa",
+          "value": "{primitive.semantic.warning.300}",
           "type": "color"
         },
         "bgHover": {
-          "value": "#f7cd7d",
+          "value": "{primitive.semantic.warning.400}",
           "type": "color"
         },
         "bgActive": {
-          "value": "#dfb04a",
+          "value": "{primitive.semantic.warning.500}",
           "type": "color"
         },
         "borderMuted": {
-          "value": "#dfb04a",
+          "value": "{primitive.semantic.warning.500}",
           "type": "color"
         },
         "border": {
-          "value": "#b68f3e",
+          "value": "{primitive.semantic.warning.600}",
           "type": "color"
         },
         "contentMuted": {
-          "value": "#6c5629",
+          "value": "{primitive.semantic.warning.800}",
           "type": "color"
         },
         "content": {
-          "value": "#3b2f1a",
+          "value": "{primitive.semantic.warning.1000}",
           "type": "color"
         }
       },
       "danger": {
         "bg": {
-          "value": "#ffd8d4",
+          "value": "{primitive.semantic.danger.300}",
           "type": "color"
         },
         "bgHover": {
-          "value": "#ffc5be",
+          "value": "{primitive.semantic.danger.400}",
           "type": "color"
         },
         "bgActive": {
-          "value": "#ff9c94",
+          "value": "{primitive.semantic.danger.500}",
           "type": "color"
         },
         "borderMuted": {
-          "value": "#ff9c94",
+          "value": "{primitive.semantic.danger.500}",
           "type": "color"
         },
         "border": {
-          "value": "#f46864",
+          "value": "{primitive.semantic.danger.600}",
           "type": "color"
         },
         "contentMuted": {
-          "value": "#973b39",
+          "value": "{primitive.semantic.danger.800}",
           "type": "color"
         },
         "content": {
-          "value": "#502421",
+          "value": "{primitive.semantic.danger.1000}",
           "type": "color"
         }
       },
       "success": {
         "bg": {
-          "value": "#cee9cf",
+          "value": "{primitive.semantic.success.300}",
           "type": "color"
         },
         "bgHover": {
-          "value": "#b4ddb6",
+          "value": "{primitive.semantic.success.400}",
           "type": "color"
         },
         "bgActive": {
-          "value": "#84c78b",
+          "value": "{primitive.semantic.success.500}",
           "type": "color"
         },
-        "bgMuted": {
-          "value": "#84c78b",
+        "borderMuted": {
+          "value": "{primitive.semantic.success.500}",
           "type": "color"
         },
         "border": {
-          "value": "#38a952",
+          "value": "{primitive.semantic.success.600}",
           "type": "color"
         },
         "contentMuted": {
-          "value": "#266532",
+          "value": "{primitive.semantic.success.800}",
           "type": "color"
         },
         "content": {
-          "value": "#1a371e",
+          "value": "{primitive.semantic.success.1000}",
           "type": "color"
         }
       },
       "info": {
         "bg": {
-          "value": "#d5e3f7",
+          "value": "{primitive.semantic.info.300}",
           "type": "color"
         },
         "bgHover": {
-          "value": "#bed5f3",
+          "value": "{primitive.semantic.info.400}",
           "type": "color"
         },
         "bgActive": {
-          "value": "#92baea",
+          "value": "{primitive.semantic.info.500}",
           "type": "color"
         },
         "borderMuted": {
-          "value": "#92baea",
+          "value": "{primitive.semantic.info.500}",
           "type": "color"
         },
         "border": {
-          "value": "#4b9ae0",
+          "value": "{primitive.semantic.info.600}",
           "type": "color"
         },
         "contentMuted": {
-          "value": "#2a5c88",
+          "value": "{primitive.semantic.info.800}",
           "type": "color"
         },
         "content": {
-          "value": "#1e3248",
+          "value": "{primitive.semantic.info.1000}",
           "type": "color"
         }
       }
@@ -627,10 +627,10 @@
         "value": {
           "color": "#84484233",
           "type": "dropShadow",
-          "x": 0,
-          "y": 0,
-          "blur": 0,
-          "spread": 2
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "2"
         },
         "type": "boxShadow"
       },
@@ -638,10 +638,10 @@
         "value": {
           "color": "#d2d3d533",
           "type": "dropShadow",
-          "x": 0,
-          "y": 0,
-          "blur": 0,
-          "spread": 2
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "2"
         },
         "type": "boxShadow"
       }
@@ -651,10 +651,10 @@
         "value": {
           "color": "#2f313833",
           "type": "dropShadow",
-          "x": 0,
-          "y": 1,
-          "blur": 2,
-          "spread": 0
+          "x": "0",
+          "y": "1",
+          "blur": "2",
+          "spread": "0"
         },
         "type": "boxShadow"
       },
@@ -662,10 +662,10 @@
         "value": {
           "color": "#2f31382e",
           "type": "dropShadow",
-          "x": 0,
-          "y": 2,
-          "blur": 6,
-          "spread": 0
+          "x": "0",
+          "y": "2",
+          "blur": "6",
+          "spread": "0"
         },
         "type": "boxShadow"
       },
@@ -673,10 +673,10 @@
         "value": {
           "color": "#2f313829",
           "type": "dropShadow",
-          "x": 0,
-          "y": 4,
-          "blur": 14,
-          "spread": 0
+          "x": "0",
+          "y": "4",
+          "blur": "14",
+          "spread": "0"
         },
         "type": "boxShadow"
       },
@@ -684,10 +684,10 @@
         "value": {
           "color": "#2f313824",
           "type": "dropShadow",
-          "x": 0,
-          "y": 6,
-          "blur": 22,
-          "spread": 0
+          "x": "0",
+          "y": "6",
+          "blur": "22",
+          "spread": "0"
         },
         "type": "boxShadow"
       }
