@@ -1279,7 +1279,7 @@
       }
     }
   },
-  "Ugglan": {
+  "Default brand": {
     "fontFamily": {
       "value": "Source Sans Pro",
       "type": "fontFamilies"
@@ -1379,7 +1379,7 @@
       }
     }
   },
-  "VGR – Mitt vårdmöte": {
+  "Brand 2": {
     "fontFamily": {
       "value": "Open Sans",
       "type": "fontFamilies"
@@ -1481,24 +1481,24 @@
   },
   "$themes": [
     {
-      "id": "6b045f194aa173e7f00c439adb46eb8ffaaed9f3",
-      "name": "Ugglan",
+      "id": "fa2485d0aa1fdba3a2d89e4c2b08400711be63ca",
+      "name": "Brand 2",
       "selectedTokenSets": {
-        "VGR – Mitt vårdmöte": "disabled",
         "Foundations": "enabled",
-        "Ugglan": "source",
-        "Semantic": "enabled"
+        "Semantic": "enabled",
+        "Brand 2": "source",
+        "Default brand": "disabled"
       },
       "$figmaStyleReferences": {}
     },
     {
-      "id": "fa2485d0aa1fdba3a2d89e4c2b08400711be63ca",
-      "name": "VGR",
+      "id": "6b045f194aa173e7f00c439adb46eb8ffaaed9f3",
+      "name": "Default brand",
       "selectedTokenSets": {
-        "VGR – Mitt vårdmöte": "source",
         "Foundations": "enabled",
-        "Ugglan": "disabled",
-        "Semantic": "enabled"
+        "Semantic": "enabled",
+        "Brand 2": "disabled",
+        "Default brand": "source"
       },
       "$figmaStyleReferences": {}
     }
@@ -1507,8 +1507,8 @@
     "tokenSetOrder": [
       "Foundations",
       "Semantic",
-      "Ugglan",
-      "VGR – Mitt vårdmöte"
+      "Default brand",
+      "Brand 2"
     ]
   }
 }
