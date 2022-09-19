@@ -875,7 +875,7 @@
           "description": "accent.800"
         },
         "highlight": {
-          "value": "{primitive.accent.400}",
+          "value": "{primitive.primary.400}",
           "type": "color"
         },
         "deselected": {
@@ -918,6 +918,10 @@
         },
         "interactive": {
           "value": "{primitive.accent.800}",
+          "type": "color"
+        },
+        "highlight": {
+          "value": "{primitive.primary.700}",
           "type": "color"
         }
       },
@@ -964,7 +968,7 @@
           "type": "color"
         },
         "onHighlight": {
-          "value": "{primitive.accent.900}",
+          "value": "{primitive.primary.900}",
           "type": "color"
         }
       },
