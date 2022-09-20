@@ -857,7 +857,7 @@
           "type": "color"
         },
         "interactive": {
-          "value": "#0e42eb",
+          "value": "{primitive.accent.800}",
           "type": "color"
         },
         "interactiveHover": {
